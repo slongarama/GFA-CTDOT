@@ -1,4 +1,6 @@
 # Ignore data files
+.gitignore
+.mapbox_token
 data
 /data/*
 
